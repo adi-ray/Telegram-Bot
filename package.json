@@ -1,0 +1,15 @@
+{
+  "name": "telegram-bot",
+  "version": "1.0.0",
+  "description": "Telegram Bot creation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aditya Ray",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.5.1",
+    "telegraf": "^4.14.0"
+  }
+}
